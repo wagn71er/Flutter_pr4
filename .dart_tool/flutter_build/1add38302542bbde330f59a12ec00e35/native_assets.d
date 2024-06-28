@@ -1,0 +1,1 @@
+ /Users/neftyanik/flutter/projects\ for\ flutter/Tima/Flutter_pr4/.dart_tool/flutter_build/1add38302542bbde330f59a12ec00e35/native_assets.yaml: 
